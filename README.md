@@ -4,3 +4,5 @@ I'm a passionate tech enthusiast and a student with a focus on front-end develop
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,angular,bootstrap,figma,gitlab,mysql,mongodb,nodejs,ps,py,react,sass,vite,)](https://skillicons.dev)
+
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
