@@ -24,7 +24,7 @@
   <a href="mailto:sudheeps2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/sudheep-s-0816101ba/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sudheep-s-0816101ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
  
