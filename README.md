@@ -57,4 +57,4 @@
   <br/>
 
 
-  ![snake gif](https://github.com/Sudheep24/Sudheep24/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/Sudheep24/Sudheep24/blob/output/github-contribution-grid-snake.svg)
