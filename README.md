@@ -65,7 +65,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudheep24&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Sudheep's GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Sudheep24&theme=radical&row=1&column=7&margin-w=15&margin-h=15"
+    alt="Sudheep's GitHub Trophies"
+  />
 </div>
 <br/>
 
