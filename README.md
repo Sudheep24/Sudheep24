@@ -8,7 +8,6 @@
 
 <div align="center" style="color: #ADD8E6;">
   🧑‍💻 Currently navigating the exciting world of undergraduate studies! <br/>
-  🌱 Always curious and currently diving deep into **Flutter** & **Next.js**. <br/>
   💡 Inspired by: <i>"Your time is limited, so don’t waste it living someone else’s life.” - Steve Jobs</i> <br/>
 </div>
 
